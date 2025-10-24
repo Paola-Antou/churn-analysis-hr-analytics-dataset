@@ -1,10 +1,10 @@
 
 ## Description du projet
 
-Ce projet vise à **prédire le churn (attrition)** des employés à partir du jeu de données public **IBM HR Analytics**.
-L’objectif est de comprendre **les facteurs clés expliquant le départ des employés**, de **développer un modèle prédictif fiable**, et de **proposer une stratégie de rétention** fondée sur les données.
+Ce projet vise à prédire le churn (attrition) des employés à partir du jeu de données public IBM HR Analytics.
+L’objectif est de comprendre les facteurs clés expliquant le départ des employés, de développer un modèle prédictif fiable, et de proposer une stratégie de rétention fondée sur les données.
 
-Ce travail illustre une démarche complète de **data science appliquée à la problématique de fidélisation**, depuis l’exploration des données jusqu’à la traduction des résultats en recommandations business.
+Ce travail illustre une démarche complète de data science appliquée à la problématique de fidélisation, depuis l’exploration des données jusqu’à la traduction des résultats en recommandations business.
 
 
 ##  Structure du dépôt
@@ -17,9 +17,6 @@ churn-analysis-hr-analytics-dataset/
 │
 ├── src/
 │   ├── main.ipynb          # Notebook complet (EDA, Modélisation, Interprétation)
-│   ├── utils.py            # Fonctions utilitaires (prétraitement, visualisation)
-│   └── config.py           # Paramètres du projet
-│
 ├── dashboard/
 │   ├── app.py              # Application Streamlit 
 │   └── requirements.txt
